@@ -87,6 +87,10 @@ h3 {
   font-size: 1.25rem;
 }
 
+h5{
+  color: #11999e;
+}
+
 hr {
   /* border: dotted #eaf6f6 7px; */
   border-bottom: none;
@@ -137,7 +141,7 @@ span {
 }
 
 .intro {
-  width: 30%;
+  width: 50%;
   margin: auto;
 }
 
